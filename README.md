@@ -24,3 +24,4 @@ To publish this on cloudflare pages from stackblitz:
 To publish on cloudflare pages from the command line:
 
 1. follow the steps that start with `git init` when adding a new repository and start with step 2 above.
+# safetyqotd
